@@ -1,4 +1,4 @@
-JWT_RestAPI_Tarefa - O código se encontra na branch Main
+JWT_RestAPI_Tarefa - O código se encontra na branch Master
 
 
 Registrar usuário:
